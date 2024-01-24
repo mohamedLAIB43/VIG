@@ -1,0 +1,21 @@
+Il est demandé aux étudiants de confectionner un programme informatique capable de cryptanalyser
+le chiffre de Vigenère en utilisant les deux méthodes étudiées en cours : la méthode de Babbage et
+celle de Friedman. Ces deux méthodes de cryptanalyse nécessite une approche analytique pour
+révéler la clé utilisée.
+Fonctionnalités Requises :
+1- Méthode de Babbage : Cette méthode implique l'analyse fréquentielle des lettres et la recherche
+de motifs récurrents pour estimer la longueur de la clé.
+2- Méthode de l'Indice de Coïncidence : Intégrer la méthode de l'indice de coïncidence pour
+détecter la répétition de séquences dans le texte chiffré, suggérant ainsi la longueur probable de
+la clé.
+3- Interface Interactive : Concevoir une interface utilisateur conviviale qui permet à l'utilisateur de
+fournir le texte chiffré, de choisir la méthode de cryptanalyse, et d'observer les résultats de
+manière claire.
+4- Exécutable : Livrer un exécutable fonctionnel du programme, compatible avec les systèmes
+d'exploitation courants tels que Windows, macOS et Linux.
+5- Spécifications Techniques : Le programme doit être développé dans un langage de
+programmation couramment utilisé, comme Python, Java, C++, ou un autre de votre choix.
+Utiliser des commentaires dans le code pour expliquer les différentes étapes et parties de
+l'algorithme. Garantir une gestion appropriée des erreurs pour assurer la robustesse du
+programme.
+6- Dernier délai du dépôt : Juste après le dernier examen.
